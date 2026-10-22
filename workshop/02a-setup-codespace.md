@@ -85,12 +85,16 @@ The diagram below shows your Codespace connection to GitHub.
 
 1. Run these commands in the Codespace terminal:
 
-```bash
-gh --version
-gh auth status
-```
-1. Confirm `gh --version` shows `gh version 2.40.0` or newer.
-2. Confirm `gh auth status` shows you are logged in to `github.com`.
+   ```bash
+   gh --version
+   gh auth status
+   ```
+
+2. Confirm `gh --version` shows `gh version 2.40.0` or newer.
+3. Confirm `gh auth status` shows you are logged in to your GitHub host (`github.com` for most learners).
+
+> [!NOTE]
+> On GitHub Enterprise Cloud with data residency or GitHub Enterprise Server, your host is your enterprise hostname (for example `octocorp.ghe.com`) instead of `github.com`. Confirm that hostname appears in the output.
 
 _What success looks like:_
 
@@ -107,7 +111,7 @@ github.com
 - [ ] The Codespace editor is open in your browser
 - [ ] The built-in terminal is open in your Codespace
 - [ ] `gh --version` returns version 2.40.0 or newer
-- [ ] `gh auth status` confirms you are logged in to `github.com`
+- [ ] `gh auth status` confirms you are logged in to your GitHub host
 - [ ] The Codespace is attached to your `my-agentic-workflows` practice repository
 
 <!-- journey: codespace -->
