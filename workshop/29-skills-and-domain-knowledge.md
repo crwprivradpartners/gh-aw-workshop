@@ -128,5 +128,9 @@ Check the compiled `.lock.yml` for the activation step that installs your skill,
 - [ ] `gh aw compile` succeeded with no unpinned-skill warnings
 
 <!-- journey: all -->
+**Next:** [Control Which Domains Your Agent Can Reach](30-control-network-access.md)
+<!-- /journey -->
+
+<!-- journey: all -->
 Want to choose another branch from the workshop hub? Return to [What's Next? Keep Exploring](14-next-steps.md).
 <!-- /journey -->
