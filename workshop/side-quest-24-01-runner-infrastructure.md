@@ -63,6 +63,7 @@ network:
 After a successful run, the `firewall.md` artifact provides a ready-made list of every
 domain the agent contacted — share it with your security team as an allowlist baseline.
 See [Audit Reference](side-quest-25-01-audit-reference.md) for details on reading firewall logs.
+For a hands-on walkthrough, try [Allowlist Enterprise Domains in Your Workflow Firewall](side-quest-24-02-network-allowlist-enterprise.md).
 
 ## :white_check_mark: Checkpoint
 
