@@ -67,6 +67,7 @@ Here's a quick recap of the concepts you've touched. The diagram below shows how
 - :arrow_right: [Test Your Prompt Ideas with A/B Experiments](23-ab-experiments.md) — compare prompt variants across runs and let data decide which one to keep.
 - :arrow_right: [Run Your Agentic Workflow on a Self-Hosted Runner](24-self-hosted-runners.md) — target your organisation's runner fleet instead of GitHub-hosted machines (enterprise teams).
 - :arrow_right: [Audit and Monitor Your Agentic Workflows](25-audit-and-observability.md) — read run [artifacts](https://github.github.com/gh-aw/reference/artifacts/), understand token usage, and build an audit trail for enterprise compliance.
+- :arrow_right: [Preview Safe Outputs with Staged Mode](30-staged-mode-preview.md) — preview the issues, comments, and pull requests your workflow would create before it writes anything.
 - :arrow_right: [Manage Costs and AI Credit Budgets](26-manage-costs-and-budgets.md) — measure AIC consumption, set spending limits, and keep your workflows within budget (enterprise teams).
 
 <!-- journey: all -->
